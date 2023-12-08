@@ -2,7 +2,7 @@
 Teknologi :
 - PHP 8.*
 - Boostrap 4.*
-- MySQL/MariaDB
+- MySQL/MariaDB/Laragon
 
 User Login
 1. Akun Admin
@@ -16,3 +16,5 @@ User Login
 3. Akun Operator Mahasiswa
 - Username : mahasiswa
 - password : 123456
+
+4. Link Akses : http://crud_php.io/ 
