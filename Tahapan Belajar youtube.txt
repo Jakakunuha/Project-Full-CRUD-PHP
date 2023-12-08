@@ -1,0 +1,34 @@
+PHP MySQL Bootstrap Dasar
+Youtube : Muba Teknologi
+
+Full CRUD PHP MySQL Bootstrap Terbaru | 1. Persiapan Belajar
+Full CRUD PHP MySQL Bootstrap | 2. Integrasi Bootstrap
+Full CRUD PHP MySQL Bootstrap | 3. Koneksi PHP Ke Database MySQL
+Full CRUD PHP MySQL Bootstrap | 4. Menampilkan Data Barang (Read)
+Full CRUD PHP MySQL Bootstrap | 5. Merubah Format Tanggal Indonesia PHP
+Full CRUD PHP MySQL Bootstrap | 6. Membuat Format Angka Rupiah (RP) PHP
+Full CRUD PHP MySQL Bootstrap | 7. Menambahkan Data Barang (Create) Ke MySQL
+Full CRUD PHP MySQL Bootstrap | 8. Mengubah Data Barang (Update) Di MySQL
+Full CRUD PHP MySQL Bootstrap | 9. hapus Data Barang (delete) Di MySQL
+Full CRUD PHP MySQL Bootstrap | 10. Integrasi Datatables jQuery
+Full CRUD PHP MySQL Bootstrap | 11. Menampilkan Data Mahasiswa
+Full CRUD PHP MySQL Bootstrap | 12. Menampilkan Detail Data Mahasiswa
+Full CRUD PHP MySQL Bootstrap | 13 . Menambahkan Data Mahasiswa
+Full CRUD PHP MySQL Bootstrap | 14. Upload File Gambar Dan Validasi
+Full CRUD PHP MySQL Bootstrap | 16. Menghapus Data Mahasiswa
+Full CRUD PHP MySQL Bootstrap | 17. Mengubah Data Mahasiswa
+Full CRUD PHP MySQL Bootstrap | 18. Preview dan Unlink File Gambar
+Full CRUD PHP MySQL Bootstrap | 19. CRUD Modal Bootstrap Terbaru
+Full CRUD PHP MySQL Bootstrap | 20. Integrasi Font Awesome Icons - proses https://fontawesome.com/
+Full CRUD PHP MySQL Bootstrap | 21. Membuat Dan Membatasi Halaman Login
+Full CRUD PHP MySQL Bootstrap | 22. Membuat Fungsi Login Dan Logout
+Full CRUD PHP MySQL Bootstrap | 23. Membagi Hak Akses User Login
+Full CRUD PHP MySQL Bootstrap | 24 . CRUD REST API PHP MySQL Native
+Full CRUD PHP MySQL Bootstrap | 25 . Membuat Download Laporan Excel Dengan PHP - https://getcomposer.org/download/ - https://phpspreadsheet.readthedocs.io/en/latest/#hello-world
+Full CRUD PHP MySQL Bootstrap | 26 . Membuat Download Laporan PDF Di PHP - https://www.html2pdf.fr/
+Full CRUD PHP MySQL Bootstrap | 27 . Membuat Barcode Dengan PHP - https://github.com/davidscotttufts/php-barcode
+Full CRUD PHP MySQL Bootstrap | 28 . Integrasi CKEditor - https://cdn.ckeditor.com/
+Full CRUD PHP MySQL Bootstrap | 29. Integrasi CKEditor Dengan CKFinder - https://ckeditor.com/ckfinder/download/#php
+Full CRUD PHP MySQL Bootstrap | 30. Cara Optimasi Website Dengan .htaccess - https://technumero.com/check-gzip-compression/ - https://www.websiteplanet.com/webtools/gzip-compression/
+Full CRUD PHP MySQL Bootstrap 31. Cara Integrasi Template Admin LTE3 - https://github.com/ColorlibHQ/AdminLTE/releases
+Full CRUD PHP MySQL Bootstrap 32. Cara Upload Project Ke Github (Push, Pull, Clone)
